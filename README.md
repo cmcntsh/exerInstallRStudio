@@ -1,5 +1,7 @@
 # Install R and RStudio Desktop
 
+A video demonstration of installing R and RStudio on a computer running Windows 10 is available at: https://youtu.be/VLzhzU8SQQA
+
 ## R
 
 * Go to https://cran.r-project.org/mirrors.html and select a mirror site closest to you. 
