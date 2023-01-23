@@ -17,6 +17,10 @@ A video demonstration of installing R and RStudio on a computer running Windows 
 * Download the correct version of RStudio Desktop for your operating system and run the installer.
 * Post a screenshot on the discussion board or come to office hours if you run into problems.
 
+## RTools (2023 notes)
+
+* I've seen some errors connected to installing packages in RStudio. A warning popped up about needing to install RTools. I needed to intall RTools from https://cran.rstudio.com/bin/windows/Rtools/ (I had to select the version that match my version of R - 4.2.2 as of 01/23/2023.) I'm making a note here in case this is seen by more individuals so we have a note of it for next year.
+
 ## Turn in Assignment
 
 * Turn in a screenshot of RStudio once you have it installed on your computer.
