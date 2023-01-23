@@ -19,7 +19,7 @@ A video demonstration of installing R and RStudio on a computer running Windows 
 
 ## RTools (2023 notes)
 
-* I've seen some errors connected to installing packages in RStudio. A warning popped up about needing to install RTools. I needed to intall RTools from https://cran.rstudio.com/bin/windows/Rtools/ (I had to select the version that match my version of R - 4.2.2 as of 01/23/2023.) I'm making a note here in case this is seen by more individuals so we have a note of it for next year.
+* I've seen some errors connected to installing packages in RStudio. A warning popped up about needing to install RTools. I needed to intall RTools from https://cran.rstudio.com/bin/windows/Rtools/ (I had to select the version that matched my version of R - 4.2.2 as of 01/23/2023.) I'm making a note here in case this is seen by more individuals so we have a note of it for next year.
 
 ## Turn in Assignment
 
